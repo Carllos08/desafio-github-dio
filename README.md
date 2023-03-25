@@ -1,6 +1,6 @@
-# desafio-github-dio
+# Desafio github dio
 
-desafio do curso dio Git/Github
+Desafio do Curso DIO Git/Github
 
 ## Links Úteis
 
