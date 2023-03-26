@@ -1,4 +1,4 @@
-# Desafio github dio
+# Desafio github DIO
 
 Desafio do Curso DIO Git/Github
 
