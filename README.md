@@ -1,6 +1,6 @@
 # desafio-github-dio
 
-desafio do curso dio Git/Github
+desafio do cnurso dio Git/Github
 
 ## Links Úteis
 
